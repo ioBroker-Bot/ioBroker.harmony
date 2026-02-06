@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "harmony",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "news": {
+      "2.0.5": {
+        "en": "Corrected the type of value",
+        "de": "Korrektur der Art des Wertes",
+        "ru": "Исправлен тип стоимости",
+        "pt": "Corrigido o tipo de valor",
+        "nl": "Gecorrigeerde waarde",
+        "fr": "Correction du type de valeur",
+        "it": "Corretto il tipo di valore",
+        "es": "Corregido el tipo de valor",
+        "pl": "Poprawiono typ wartości",
+        "uk": "Виправлено тип значення",
+        "zh-cn": "更正了数值类型"
+      },
       "2.0.4": {
         "en": "Trying to fix the activities",
         "de": "Versuchen, die Aktivitäten zu beheben",
@@ -80,19 +93,6 @@
         "pl": "Adapter wymaga węzła 16.\nAdapter przeniesiono do organizacji iobroker-community-adapters.\nW zależności zostały zaktualizowane.",
         "uk": "Адаптер вимагає nodejs 16 тепер.\nПереміщено перехід на iobroker-community-adapters.\nОновлено залежність.",
         "zh-cn": "现在需要16秒。.\n已经向加勒比采掘业者组织道歉。.\n情况已经更新。."
-      },
-      "1.2.2": {
-        "en": "reduce discover interval and only log new discovered hubs",
-        "de": "Reduzieren des Erkennungsintervall und logge nur neu entdeckte Hubs",
-        "ru": "сократить интервал обнаружения и регистрировать только новые обнаруженные концентраторы",
-        "pt": "reduza o intervalo de descoberta e registre somente novos hubs descobertos",
-        "nl": "verminder het ontdekkingsinterval en registreer alleen nieuw ontdekte hubs",
-        "fr": "réduire l'intervalle de découverte et ne consigner que les nouveaux concentrateurs découverts",
-        "it": "ridurre l'intervallo di rilevamento e registrare solo i nuovi hub rilevati",
-        "es": "reducir el intervalo de descubrimiento y solo registrar nuevos concentradores descubiertos",
-        "pl": "zmniejsz interwał wykrywania i rejestruj tylko odkryte nowe koncentratory",
-        "zh-cn": "减少发现间隔并仅记录新发现的集线器",
-        "uk": "зменшити інтервал виявлення та реєструвати лише нові виявлені концентратори"
       }
     },
     "titleLang": {

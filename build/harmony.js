@@ -501,7 +501,7 @@ class HarmonyAdapter extends adapter_core_1.Adapter {
                             },
                             native: command,
                         });
-                        void this.setState(`${deviceChannelName}.${commandName}`, { val: '0', ack: true });
+                        void this.setState(`${deviceChannelName}.${commandName}`, { val: 0, ack: true });
                     }
                 }
             }
