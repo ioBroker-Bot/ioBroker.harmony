@@ -77,6 +77,9 @@ After sending, the state will be set to 0 again.
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+* (@GermanBluefox) Corrected the type of value
+
 ### 2.0.4 (2026-01-29)
 * (@brkai) Trying to fix the activities
 

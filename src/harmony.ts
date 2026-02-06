@@ -610,7 +610,7 @@ export class HarmonyAdapter extends Adapter {
                             },
                             native: command,
                         });
-                        void this.setState(`${deviceChannelName}.${commandName}`, { val: '0', ack: true });
+                        void this.setState(`${deviceChannelName}.${commandName}`, { val: 0, ack: true });
                     }
                 }
             }
